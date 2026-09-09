@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Xavoberto
-- 👀 I’m interested in Machinne Learning, AI, .Net and Unity.
-- 🌱 I’m currently learning Unity.
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in .NET, AI and Unity.
+- 🌱 I’m currently working as a .NET developer.
+- 💞️ I'm working on game development as a passion project.
